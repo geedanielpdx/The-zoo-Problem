@@ -6,7 +6,7 @@
 </head>
 
 <body style="background-color:rgb(50, 238, 33);">
-    <h1>Jimmys Creatures</h1>
+    <h1>Zoo Animals</h1>
     <H2><a href="https://en.wikipedia.org/wiki/Bear">Bears</a></H2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg/220px-Ours_brun_parcanimalierpyrenees_1.jpg"
         alt="">
